@@ -1,2 +1,2 @@
-# Käytetään kurssin töiden palautukseen
+# Repoa käytetään kurssin töiden palautukseen
 
